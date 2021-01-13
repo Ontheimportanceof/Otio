@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: "#On the importance of..."
+  heading: On the importance of...
   maxWidthPX: "652"
 seo:
   image: "/images/hero-2.jpg"
