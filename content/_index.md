@@ -6,4 +6,4 @@ seo:
   image: "/images/hero-2.jpg"
 
 ---
-# On the importance of...
+# _On the importance of..._
