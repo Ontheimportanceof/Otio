@@ -1,7 +1,7 @@
 ---
 hero:
   heading: On the importance of...
-  maxWidthPX: "652"
+  maxWidthPX: "8000"
 seo:
   image: "/images/hero-2.jpg"
 
